@@ -24,7 +24,7 @@ This Frontend Mentor challenge was to build out a QR code component as laid out 
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/isioma-talabi/qr-code-component-project)
 - Live Site URL: [Live site URL](https://isioma-talabi.github.io/qr-code-component-project/)
 
 ## My process
@@ -51,7 +51,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@isioma-talabi](https://www.frontendmentor.io/profile/isioma-talabi)
 
 
 
