@@ -24,8 +24,8 @@ This Frontend Mentor challenge was to build out a QR code component as laid out 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/isioma-talabi/qr-code-component-project)
+- Live Site URL: [Live site URL](https://isioma-talabi.github.io/qr-code-component-project/)
 
 ## My process
 My first attempt at solving this challenge sucked. I was not able to get the card to centralise as I kept playing around with different positions. Then I deleted all the codes, took a deep breath and started afresh. This time, I used the `display:flex` property and thoroughly studied the Figma file to develop the current solution I now have. It was fun when I relaxed. Note to self for the future!
@@ -51,7 +51,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@isioma-talabi](https://www.frontendmentor.io/profile/isioma-talabi)
 
 
 
