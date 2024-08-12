@@ -16,14 +16,10 @@ body {
   width: 320px;
   height: 499px;
   border-radius: 20px;
-<<<<<<< HEAD
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-=======
-  margin-top: 10px;
->>>>>>> 55d261efd54776e814d69917b8372fb6a0e4b524
 }
 
 .qr__code {
