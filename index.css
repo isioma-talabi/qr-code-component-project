@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: #d5e1ef;
+}
+
+.card__wrapper {
+  background-color: white;
+  width: 320px;
+  height: 499px;
+  border-radius: 20px;
+  margin-top: 130px;
+}
+
+.qr__code {
+  width: 288px;
+  height: 288px;
+  margin-top: 16px;
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-bottom: 0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+h1 {
+  font-size: 22px;
+  line-height: 120%;
+  letter-spacing: 0;
+  font-weight: 700;
+  margin-top: 24px;
+  color: #1f314f;
+  margin-bottom: 16px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+  font-weight: 400;
+  margin-bottom: 40px;
+  margin-left: 16px;
+  margin-right: 16px;
+  color: #68778d;
+}
